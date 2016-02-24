@@ -1,0 +1,11 @@
+Depot pour Devoir 1 en INF600A, Hiver 2016.
+
+Principaux fichiers:
+
+- biblio.sh: Le programme a completer
+
+- features: les tests d'acceptation
+
+- makefile: les cibles pour les "run", tests, etc.
+
+
